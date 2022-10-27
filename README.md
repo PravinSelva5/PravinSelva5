@@ -6,6 +6,7 @@ I'm an avid Development Engineer working on my web development & blockchain soft
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [pravin.selvarajah.eng@gmail.com](mailto:pravin.selvarajah.eng@gmail.com)
 * 🧠  I'm learning PatrickAlphaC's Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
+* 💻  Continuously improving my software skills by building side projects & using tools such as Scrimba, AlgoExpert, NeetCode, and CryptoZombies!
 
 ### Skills
 
