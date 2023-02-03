@@ -8,6 +8,11 @@ I'm an avid Development Engineer working on my web development & blockchain soft
 * 🧠  I'm learning PatrickAlphaC's Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
 * 💻  Continuously improving my software skills by building side projects & using tools such as Scrimba, AlgoExpert, NeetCode, and CryptoZombies!
 
+### Socials
+[![Pravin Selvarajah Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravinselvarajah/)
+[![Pravin Selvarajah Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PravinSelva5)
+
+
 ### Skills
 
 <p align="left">
@@ -30,11 +35,6 @@ I'm an avid Development Engineer working on my web development & blockchain soft
 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/PravinSelva5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pravinselvarajah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/0xpravin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 
 ### Badges
 
